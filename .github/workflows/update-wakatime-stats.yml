@@ -14,7 +14,7 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Atualizar Estatísticas do WakaTime
-      uses: athul/waka-readme@v1.2.2 # Usa a versão correta da ação
+      uses: athul/waka-readme@v1 # Usa a versão estável v1
       with:
         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
