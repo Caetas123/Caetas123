@@ -6,6 +6,6 @@ Sou estudante do Ensino Médio integrado com um curso técnico de Desenvolviment
 
 # WakaTime (Minha atividade desde 05/01/2025)
 
-Aqui estão minhas estatísticas de tempo de programação, geradas pelo WakaTime:
+Aqui estão minhas estatísticas de tempo, geradas pelo WakaTime:
 
 ![Minhas estatísticas do WakaTime](https://wakatime.com/share/@Caetas123/863f6e6b-2ba2-4f78-b5cc-3d251e80a51a.svg)
