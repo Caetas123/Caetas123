@@ -8,4 +8,4 @@ Sou estudante do Ensino Médio integrado com um curso técnico de Desenvolviment
 
 Aqui estão minhas estatísticas de tempo, geradas pelo WakaTime
 
-![Minhas estatísticas do WakaTime](https://wakatime.com/share/@Caetas123/863f6e6b-2ba2-4f78-b5cc-3d251e80a51a.svg)
+![Minhas estatísticas do WakaTime](https://wakatime.com/share/@Caetas123/b2c5c2d3-1962-4376-8d70-a558f29e174f.svg)
