@@ -21,7 +21,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           ### Meta (opções de personalização)
           API_BASE_URL: https://wakatime.com/api # URL da API WakaTime
-          REPOSITORY: <YOUR_GITHUB_USERNAME>/<YOUR_REPOSITORY_NAME> # Nome do repositório (opcional)
+          REPOSITORY: https://github.com/Caetas123/Caetas123 # Nome do repositório (opcional)
           
           ### Conteúdo (personalização do gráfico)
           SHOW_TITLE: true # Exibe o título no gráfico
