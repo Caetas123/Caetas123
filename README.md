@@ -1,4 +1,4 @@
-# Olá, sou Caetano Matarazo Granado!
+# Olá, sou [Caetano Matarazo Granado](https://github.com/Caetas123)!
 
 Sou estudante do Ensino Médio integrado com um curso técnico de Desenvolvimento de Sistemas, e com isso quero me aprofundar mais nesses mundo e com o GitHub, 
 é onde posto meus projetos em andamento.
