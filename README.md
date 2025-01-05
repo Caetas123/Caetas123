@@ -4,7 +4,7 @@ Sou estudante do Ensino Médio integrado com um curso técnico de Desenvolviment
 é onde posto meus projetos em andamento.
 
 
-# Minhas Estatísticas do WakaTime
+# WakaTime (Minha atividade desde 05/01/2025)
 
 Aqui estão minhas estatísticas de tempo de programação, geradas pelo [WakaTime](https://wakatime.com):
 
