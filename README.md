@@ -1,2 +1,5 @@
-<figure><embed src="https://wakatime.com/share/@Caetas123/a06fb8a7-ffce-4a27-b6e6-b7b4d6fd0719.svg"></embed></figure>
-![Minhas estatísticas do WakaTime](https://wakatime.com/share/@Caetas123/a06fb8a7-ffce-4a27-b6e6-b7b4d6fd0719.svg)
+# Minhas Estatísticas do WakaTime
+
+Aqui estão minhas estatísticas de tempo de programação, geradas pelo [WakaTime](https://wakatime.com):
+
+![Minhas estatísticas do WakaTime](https://wakatime.com/share/@Caetas123/863f6e6b-2ba2-4f78-b5cc-3d251e80a51a.svg)
